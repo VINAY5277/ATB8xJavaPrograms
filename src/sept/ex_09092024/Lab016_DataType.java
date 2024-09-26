@@ -4,7 +4,7 @@ public class Lab016_DataType {
     public static void main(String[] args) {
         // Store the distance between earth and moon
        long distance_between_earth_moon = 384400000L; //in M
-
+        
 
         //max age
         byte age= 122;
